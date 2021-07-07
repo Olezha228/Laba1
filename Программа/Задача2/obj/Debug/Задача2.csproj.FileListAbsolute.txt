@@ -1,0 +1,14 @@
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\bin\Debug\Задача2.exe.config
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\bin\Debug\Задача2.exe
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\bin\Debug\Задача2.pdb
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\obj\Debug\Задача2.csprojAssemblyReference.cache
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\obj\Debug\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\obj\Debug\Задача2.exe
+C:\Users\olegf\source\repos\Лабораторка1\Задача2\obj\Debug\Задача2.pdb
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\bin\Debug\Задача2.exe.config
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\bin\Debug\Задача2.exe
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\bin\Debug\Задача2.pdb
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\obj\Debug\Задача2.csprojAssemblyReference.cache
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\obj\Debug\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\obj\Debug\Задача2.exe
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная1\Программа\Задача2\obj\Debug\Задача2.pdb

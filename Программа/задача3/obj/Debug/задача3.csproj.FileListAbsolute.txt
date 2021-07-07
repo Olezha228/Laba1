@@ -1,0 +1,6 @@
+C:\Users\olegf\source\repos\Лабораторка1\задача3\obj\Debug\задача3.csproj.CoreCompileInputs.cache
+C:\Users\olegf\source\repos\Лабораторка1\задача3\bin\Debug\задача3.exe.config
+C:\Users\olegf\source\repos\Лабораторка1\задача3\bin\Debug\задача3.exe
+C:\Users\olegf\source\repos\Лабораторка1\задача3\bin\Debug\задача3.pdb
+C:\Users\olegf\source\repos\Лабораторка1\задача3\obj\Debug\задача3.exe
+C:\Users\olegf\source\repos\Лабораторка1\задача3\obj\Debug\задача3.pdb

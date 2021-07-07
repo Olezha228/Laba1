@@ -1,0 +1,7 @@
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\obj\Debug\Лабораторка1.csprojAssemblyReference.cache
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\obj\Debug\Лабораторка1.csproj.CoreCompileInputs.cache
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\bin\Debug\Лабораторка1.exe.config
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\bin\Debug\Лабораторка1.exe
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\bin\Debug\Лабораторка1.pdb
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\obj\Debug\Лабораторка1.exe
+C:\Users\olegf\source\repos\Лабораторка1\Лабораторка1\obj\Debug\Лабораторка1.pdb
